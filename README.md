@@ -8,7 +8,7 @@ DBA/ Data Analyst / BI DEveloper
 - Power BI
 - Excel
 - Data Cleaning & Visualization
-- Python 
+
 
 ### Projects
 NZTA Vehicle for family 
